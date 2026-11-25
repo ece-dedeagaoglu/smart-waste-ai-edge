@@ -1,0 +1,6 @@
+numpy
+opencv-python
+pillow
+ai-edge-litert
+gpiozero
+lgpio
